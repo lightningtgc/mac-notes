@@ -45,3 +45,14 @@ export LSCOLORS=gxfxaxdxcxegedabagacad
 
 https://github.com/Ihavee/Monokai
 
+
+## 命令相关：
+
+### 查看日历
+
+```
+// 当前日期
+cal
+// 具体某一年某一月
+cal 8 2015
+```
