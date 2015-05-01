@@ -23,6 +23,8 @@ TAB:menu-complete
 
 注：按Tab时会忽略大小写，如果匹配到多个路径，可按Tab进行切换
 
+[.inputrc 相关资源介绍](http://ss64.com/bash/syntax-inputrc.html)
+
 ### 文件文件夹等类型颜色高亮显示
 
 打开终端 或者 `cd ~`
